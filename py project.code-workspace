@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "F:/py project"
+		},
+		{
+			"path": "E:/python3.7/Lib/site-packages"
+		}
+	],
+	"settings": {
+		"python.jediMemoryLimit": -1,
+		"python.languageServer": "Pylance"
+	}
+}

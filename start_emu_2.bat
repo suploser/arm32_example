@@ -1,0 +1,1 @@
+emulator.exe -netdelay none -netspeed full -avd Galaxy_Nexus_API_24

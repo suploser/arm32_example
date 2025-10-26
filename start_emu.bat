@@ -1,0 +1,1 @@
+emulator.exe -netdelay none -netspeed full -avd Pixel_API_16
