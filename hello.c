@@ -318,6 +318,6 @@ int main(int argc, char** argv){
     char *para_str2 = "which";
     // getchar();
     fun(0, 0, 0, 0, 2, para_str1, para_str2, 0, 0);
-    getchar();
+    // getchar();
     return 0;
 }
