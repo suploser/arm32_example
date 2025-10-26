@@ -316,8 +316,8 @@ int main(int argc, char** argv){
     ENTRY_POINT fun = (ENTRY_POINT)(0x6890 + IMAGE_BASE);
     char *para_str1 = "...//which";
     char *para_str2 = "which";
-    getchar();
+    // getchar();
     fun(0, 0, 0, 0, 2, para_str1, para_str2, 0, 0);
-    getchar();
+    // getchar();
     return 0;
 }
