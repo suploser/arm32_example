@@ -21,6 +21,8 @@ unsigned char *extra_base;
 unsigned extra_len;
 unsigned total_sz = 0;
 
+//linker C源码参考AOSP github : https://github.com/aosp-mirror/platform_bionic/tree/donut-release
+//参考platform_bionic-donut-release/linker/linker.c
 
 int main(int argc, char** argv){
     FILE *fp = fopen("/data/user/myls", "rb");
